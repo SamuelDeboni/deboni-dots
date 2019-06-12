@@ -1,0 +1,3 @@
+browser "youtube-dl -o- %u | mpv -"
+#browser "youtube-viewer"
+
