@@ -1,0 +1,14 @@
+super + w
+    firefox
+
+super + r
+    termite -e ranger
+
+super + Return
+    termite
+
+super + n
+    termite -e newsboat
+
+super + c
+    termite -e calcurse
